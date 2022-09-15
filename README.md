@@ -20,11 +20,11 @@
   alt="Иллюстрация" align="left" width="250px" height="200px">
   </br>
   </br>
-  </br>
   My name is Alisha and I'm a manual QA Engineer. </br>
   At the moment I am studying in QA GURU in order to learn the basics of test automation to be a Fullstack QA in the future. 
-  Motivation for professional development in software testing. High learning
-  ability and openness to new knowledge, technologies and projects. Orientation to high quality of work performance. 
+  Motivation for professional development in software testing. </br>
+  High learning ability and openness to new knowledge, technologies and projects. </br>
+  Orientation to high quality of work performance. </br>
   Attention to detail, ability to work in a team.
      
 ## ✨ Education
@@ -85,12 +85,6 @@ I got my first commercial experience in Modulbank </br>
 
 ## ✨ My stats
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlishaMeier&theme=highcontrast&border_radius=4.4&date_format=j%20M%5B%20Y%5D&fire=5C00DD&background=F6E1F3&border=00000089&stroke=A42BDD&ring=A939DD&sideNums=000000&currStreakNum=000000&currStreakLabel=0A0202&sideLabels=3D303C&dates=290707)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishaMeier&show_icons=true&theme=material-palenight)
-
-
-
-
-
