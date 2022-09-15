@@ -17,16 +17,15 @@
  
 ## ✨ About me 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" 
-  alt="Иллюстрация" align="left" width="250px" height="200px">
-  </br>
-  </br>
+  alt="Иллюстрация" align="right" width="250px" height="200px">
   My name is Alisha and I'm a manual QA Engineer. </br>
   At the moment I am studying in QA GURU in order to learn the basics of test automation to be a Fullstack QA in the future. 
   Motivation for professional development in software testing. </br>
   High learning ability and openness to new knowledge, technologies and projects. </br>
   Orientation to high quality of work performance. </br>
   Attention to detail, ability to work in a team.
-     
+  </br>   
+  </br>
 ## ✨ Education
 • Course by Nikolay Krotov "Manual QA from 0" </br>
 • Course by QA•GURU "Test automation on Python" </br>
