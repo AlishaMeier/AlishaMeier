@@ -17,7 +17,10 @@
  
 ## ✨ About me 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" 
-  alt="Иллюстрация" align="left">
+  alt="Иллюстрация" align="left" width="250px" height="200px">
+  </br>
+  </br>
+  </br>
   My name is Alisha and I'm a manual QA Engineer. </br>
   At the moment I am studying in QA GURU in order to learn the basics of test automation to be a Fullstack QA in the future. 
   Motivation for professional development in software testing. High learning
@@ -30,8 +33,9 @@
 • SSUTI, Novosibirsk,  Information systems and technologies in the media industry - bachelor's degree
 
 ## ✨ Experience
+<img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" alt="Иллюстрация" align="right" width="250px"
+     height="200px">
 I got my first commercial experience in Modulbank </br>
-<img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" alt="Иллюстрация" align="right">
 • worked on the Bank Guarantees project</br>
 • SCRUM</br>
 • tested a CRM based on Microsoft Dynamics</br>
@@ -79,9 +83,8 @@ I got my first commercial experience in Modulbank </br>
  
 </div>
 
-## My stats
+## ✨ My stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=AlishaMeier
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlishaMeier&theme=highcontrast&border_radius=4.4&date_format=j%20M%5B%20Y%5D&fire=5C00DD&background=F6E1F3&border=00000089&stroke=A42BDD&ring=A939DD&sideNums=000000&currStreakNum=000000&currStreakLabel=0A0202&sideLabels=3D303C&dates=290707)](https://git.io/streak-stats)
 
