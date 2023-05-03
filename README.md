@@ -76,8 +76,6 @@ I got my first commercial experience in Modulbank </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/appium.svg" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/browserstack.svg" width="40" height="40"/>
  
 </div>
 
