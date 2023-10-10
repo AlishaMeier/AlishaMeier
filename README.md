@@ -34,7 +34,7 @@
 ## ✨ Experience
 <img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" alt="Иллюстрация" align="right" width="250px"
      height="200px">
-I got my first commercial experience in Modulbank </br>
+I got my first commercial experience in Modulbank, second Sberbank and at this moment at Digital Agency Nidge </br>
 • worked on the Bank Guarantees project</br>
 • SCRUM</br>
 • tested a CRM based on Microsoft Dynamics</br>
@@ -48,6 +48,9 @@ I got my first commercial experience in Modulbank </br>
 • demonstration of implemented and tested features</br>
 • tested cross-browser accessibility</br>
 • worked with PostgreSQL and wrote CREATE, INSERT, DELETE, UPDATE, SELECT, JOIN queries</br>
+• mobile testing - IOS, Android</br>
+
+
 
 ## ✨ Hobbies
 • Enduro 
