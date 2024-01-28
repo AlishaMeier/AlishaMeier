@@ -34,7 +34,7 @@
 ## ✨ Experience
 <img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" alt="Иллюстрация" align="right" width="250px"
      height="200px">
-I got my first commercial experience in Modulbank, second Sberbank and at this moment at Digital Agency Nidge </br>
+I got my first commercial experience in Modulbank, second Sberbank and at this moment at Community Solutions - VOISO </br>
 • worked on the Bank Guarantees project</br>
 • SCRUM</br>
 • tested a CRM based on Microsoft Dynamics</br>
