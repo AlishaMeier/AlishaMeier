@@ -18,8 +18,8 @@
 ## ✨ About me 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" 
   alt="Иллюстрация" align="right" width="250px" height="200px">
-  My name is Alisha and I'm a manual QA Engineer. </br>
-  At the moment I am studying in QA GURU in order to learn the basics of test automation to be a Fullstack QA in the future. 
+  My name is Alisha and I'm a manual QA Engineer at this moment. </br>
+  But I have a great desire and eagerness to be a fullstack QA engineer. 
   Motivation for professional development in software testing. </br>
   High learning ability and openness to new knowledge, technologies and projects. </br>
   Orientation to high quality of work performance. </br>
@@ -28,38 +28,38 @@
   </br>
 ## ✨ Education
 • Course by Nikolay Krotov "Manual QA from 0" </br>
+• Course by Stepik "Test automation with Selenium and Python" </br>
 • Course by QA•GURU "Test automation on Python" </br>
 • SSUTI, Novosibirsk,  Information systems and technologies in the media industry - bachelor's degree
 
 ## ✨ Experience
 <img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" alt="Иллюстрация" align="right" width="250px"
      height="200px">
-I got my first commercial experience in Modulbank, second Sberbank and at this moment at Community Solutions - VOISO </br>
-• worked on the Bank Guarantees project</br>
+Been in manual testing for about 3 years </br>
+• I have worked in fintech and product companies </br>
 • SCRUM</br>
-• tested a CRM based on Microsoft Dynamics</br>
-• tested backend/frontend/API </br>
-• Interacted with development/testing/analytics teams, daily participation in rallies </br>
+• tested integrations with CRM like Microsoft Dynamics/Zoho/Hubspot/Salesforce/Freshdesk</br>
+• tested backend/frontend/mobile  </br>
+• interacted with development/testing/analytics teams, daily participation in rallies </br>
 • self-release management </br>
-• wrote test cases/checklists </br>
+• wrote test-cases/checklists, created test plans/test suits </br>
 • running bug reports </br>
-• regression testing </br>
+• regression/smoke testing </br>
 • used test-design techniques when writing test cases and checklists</br>
 • demonstration of implemented and tested features</br>
 • tested cross-browser accessibility</br>
-• worked with PostgreSQL and wrote CREATE, INSERT, DELETE, UPDATE, SELECT, JOIN queries</br>
-• mobile testing - IOS, Android</br>
+• worked with PostgreSQL</br>
 
 
 
 ## ✨ Hobbies
-• Enduro 
+• K-Dramas 
 • Pitbikes
 • Cycling
-• Music
-• Anime
-• Web Design
-• Tasty Food
+• Music (from rock to k-pop)
+• Anime 
+• Manga
+• Games
 
 
 ## ✨ future Tools
