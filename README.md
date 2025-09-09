@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="250" height="200"/>
 
 Hi, I'm **Alisha**, a manual QA engineer with 3+ years of experience.  
-Currently transitioning into **fullstack QA** with a strong focus on backend/frontend and API testing.
+Currently transitioning into **fullstack QA** with a strong focus on API testing.
 
 - Passionate about high-quality, reliable software
 - Fast learner, team player, detail-oriented
