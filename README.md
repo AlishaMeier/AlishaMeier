@@ -22,7 +22,7 @@
 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="250" height="200"/>
 
-Hi, I'm **Alisha**, a manual QA engineer with 3+ years of experience.  
+Hi, I'm **Alisha**, a manual QA engineer with 4 years of experience.  
 Currently transitioning into **fullstack QA** with a strong focus on API testing.
 
 - Passionate about high-quality, reliable software
