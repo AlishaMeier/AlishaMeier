@@ -44,7 +44,7 @@ Currently transitioning into **fullstack QA** with a strong focus on API testing
 
 <img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" align="right" width="250" height="200"/>
 
-- 3 years in manual testing (fintech & product companies)
+- 4 years in manual testing (fintech & product companies)
 - Cross-functional collaboration (Dev, QA, Analytics)
 - Experience with:
   - SCRUM, CI/CD, release management
