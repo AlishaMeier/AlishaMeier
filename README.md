@@ -38,17 +38,14 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, n
 
 ### 🐾 Tech & Tools 🐾
 
-<div align="center">
+<div align="left">
 
-💻 **Core Stack**  
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="40"/> 
-
-🛠 **Workflow & DevOps**  
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40"/> 
