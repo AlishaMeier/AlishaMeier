@@ -1,32 +1,42 @@
 <h1 align="center">
-  Hey there! I'm Alisha 🌙 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  💜 Hey, I'm <b>Alisha</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="250"/>
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="280"/>
-  <br><br>
   <a href="https://www.linkedin.com/in/cyberneko69/">
-    <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AlishaMeier&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AlishaMeier&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
+
 </div>
+<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E993F7&center=true&width=600&lines=%F0%9F%90%BE+QA+Manual+%F0%9F%90%BE;%F0%9F%90%B1+Cyber+Neko+%F0%9F%90%B1;%F0%9F%8C%B8+Anime+Energy+%F0%9F%8C%B8;%F0%9F%8E%AE+Gamer+Girl+%F0%9F%8E%AE" alt="Typing Text" />
+  </a>
+</p>
+
 
 ---
 
-### 👩‍💻 About Me
+### 🐾 About Me 🐾
 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="230"/>
 
-Hi, I’m **Alisha** — a **QA Engineer** with 4 years of experience in manual testing, currently evolving into **Fullstack QA** with a love for **API & automation**.  
-I believe that quality isn't a stage — it's a mindset ✨  
+Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, now diving into **fullstack QA & automation**.  
 
-- 🔍 Detail-driven & curious  
-- 🤝 Team player with growth mindset  
-- ⚡ Always exploring new tools and tech  
+- 🧪 Testing APIs, web, backend & mobile  
+- 🔍 Obsessed with quality, UX, and details  
+- 🧠 Fast learner, empathetic teammate  
+- 💜 Fueled by coffee, lo-fi, and anime energy 
 
 ---
 
-### 🧰 Tech & Tools
+### 🐾 Tech & Tools 🐾
 
 <div align="center">
 
@@ -50,7 +60,7 @@ I believe that quality isn't a stage — it's a mindset ✨
 
 ---
 
-### 🎓 Education
+### 🐾 Education 🐾
 
 - 🎓 Bachelor’s in **Information Systems & Media Technologies**, SSUTI (Novosibirsk)  
 - 🧪 **Manual QA from 0** — Nikolay Krotov  
@@ -59,20 +69,22 @@ I believe that quality isn't a stage — it's a mindset ✨
 
 ---
 
-### 💼 Experience
+### 🐾 Experience 🐾
 
-<img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" align="right" width="230"/>
 
-- 4+ years in **manual QA** (FinTech & product environments)  
-- Testing **web, mobile, backend & API** systems  
-- Collaboration with **Dev, QA, Analytics** teams  
-- Creating **test plans, cases, checklists**  
-- Working with **CI/CD, SCRUM, regression, smoke & exploratory testing**  
-- Knowledge of **PostgreSQL**, **CRM systems**, **release management**
+- 4+ years in **manual QA** (FinTech & product companies)  
+- Web, mobile & API testing  
+- CI/CD, regression, smoke, exploratory  
+- Test documentation & process optimization  
+- PostgreSQL, analytics, CRM integrations
+
 
 ---
+<img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" align="right" width="230"/>
 
-### 🎮 Beyond QA
+### 🐾 When I’m Not Testing 🐾
+<br>
+<br>
 
 - 🎬 K-Dramas & Anime addict  
 - 🏍 Pitbikes & 🚴 Cycling  
@@ -81,16 +93,23 @@ I believe that quality isn't a stage — it's a mindset ✨
 
 ---
 
-### 📊 GitHub Stats
+### 🐾 GitHub Stats 🐾
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlishaMeier&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaMeier&theme=tokyonight" height="150"/>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E993F7&width=435&lines=QA+Manual;Cyber+Neko;Anime+energy;Gamer+girl" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 <div align="center">
   
-  <i>“Quality means doing it right even when no one is looking.” – Henry Ford</i>
+  <i>“Quality means doing it right even when no one is looking.” – Henry Ford</i> 
+  <br>
+  💜💫✨🐾💻☕
 </div>
