@@ -100,11 +100,6 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, n
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaMeier&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E993F7&width=435&lines=QA+Manual;Cyber+Neko;Anime+energy;Gamer+girl" alt="Typing SVG" />
-  </a>
-</p>
 ---
 
 <div align="center">
