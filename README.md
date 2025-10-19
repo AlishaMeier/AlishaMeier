@@ -29,7 +29,7 @@
 
 Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, now diving into **fullstack QA & automation**.  
 
-- 🧪 Testing APIs, web, backend & mobile  
+- 🧪 Testing APIs, web, backend   
 - 🔍 Obsessed with quality, UX, and details  
 - 🧠 Fast learner, empathetic teammate  
 - 💜 Fueled by coffee, lo-fi, and anime energy 
@@ -63,17 +63,6 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, n
 - 🧪 **Manual QA from 0** — Nikolay Krotov  
 - 🐍 **Test Automation with Selenium & Python** — Stepik  
 - ⚙️ **Test Automation on Python** — QA•GURU  
-
----
-
-### 🐾 Experience 🐾
-
-
-- 4+ years in **manual QA** (FinTech & product companies)  
-- Web, mobile & API testing  
-- CI/CD, regression, smoke, exploratory  
-- Test documentation & process optimization  
-- PostgreSQL, analytics, CRM integrations
 
 
 ---
