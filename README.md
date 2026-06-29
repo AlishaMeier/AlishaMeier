@@ -62,7 +62,7 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, n
 - 🎓 Bachelor’s in **Information Systems & Media Technologies**, SSUTI (Novosibirsk)  
 - 🧪 **Manual QA from 0** — Nikolay Krotov  
 - 🐍 **Test Automation with Selenium & Python** — Stepik  
-- ⚙️ **Test Automation on Python** — QA•GURU  
+- ⚙️ **Test Automation on Python** — QA•GURU - [Diploma project](https://github.com/AlishaMeier/diploma_project_spotify)
 
 
 ---
