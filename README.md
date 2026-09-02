@@ -14,12 +14,6 @@
 
 </div>
 <br>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E993F7&center=true&width=600&lines=%F0%9F%90%BE+QA+Manual+%F0%9F%90%BE;%F0%9F%90%B1+Cyber+Neko+%F0%9F%90%B1;%F0%9F%8C%B8+Anime+Energy+%F0%9F%8C%B8;%F0%9F%8E%AE+Gamer+Girl+%F0%9F%8E%AE" alt="Typing Text" />
-  </a>
-</p>
-
 
 ---
 
@@ -66,11 +60,8 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4,5 years in manual testing,
 
 
 ---
-<img src="https://media.giphy.com/media/11oFAvGtSN4wW4/giphy.gif" align="right" width="230"/>
 
 ### 🐾 When I’m Not Testing 🐾
-<br>
-<br>
 
 - 🎬 K-Dramas & Anime   
 - 🏍 Pitbikes & 🚴 Cycling  
