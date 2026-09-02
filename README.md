@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/cyberneko69/">
+  <a href="https://www.linkedin.com/in/alisha-meier-qa">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=AlishaMeier&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
@@ -27,12 +27,12 @@
 
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="230"/>
 
-Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, now diving into **fullstack QA & automation**.  
+Hey there! I’m **Alisha**, a **QA Engineer** with 4,5 years in manual testing, now diving into **fullstack QA & automation**.  
 
 - 🧪 Testing APIs, web, backend   
-- 🔍 Obsessed with quality, UX, and details  
+- 🔍 Obsessed with quality and details  
 - 🧠 Fast learner, empathetic teammate  
-- 💜 Fueled by coffee, lo-fi, and anime energy 
+- 💜 Fueled by coffee and lo-fi 
 
 ---
 
@@ -72,10 +72,9 @@ Hey there! I’m **Alisha**, a **QA Engineer** with 4 years in manual testing, n
 <br>
 <br>
 
-- 🎬 K-Dramas & Anime addict  
+- 🎬 K-Dramas & Anime   
 - 🏍 Pitbikes & 🚴 Cycling  
 - 🎵 Music: from rock to k-pop  
-- 📚 Manga lover & 🎮 Gamer girl  
 
 ---
 
