@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Fullstack%20QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
 
 <a href="https://github.com/AlishaMeier">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
@@ -13,11 +13,15 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/nightcity-cat.svg" width="100%" alt="A cat on a rooftop in a neon city at night"/>
+</div>
+
 <br/>
 
 ```bash
 alisha@nightcity:~$ whoami
-> Alisha. Fullstack QA engineer. I test APIs, web and backend systems.
+> Alisha. QA engineer. I test APIs, web and backend systems.
 
 alisha@nightcity:~$ cat about.txt
 > I care about quality and I notice details others skip.
@@ -29,7 +33,7 @@ alisha@nightcity:~$ ./status.sh
 > 🌙 mood: gothic                  💜 colors: black, pink, violet
 ```
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
@@ -37,7 +41,7 @@ alisha@nightcity:~$ ./status.sh
 
 <table>
   <tr>
-    <td align="center" width="200"><b>Class</b><br/>Fullstack QA Engineer</td>
+    <td align="center" width="200"><b>Class</b><br/>QA Engineer</td>
     <td align="center" width="200"><b>Specialty</b><br/>APIs · Web · Backend</td>
     <td align="center" width="200"><b>Side quest</b><br/>Pentesting 🗡️</td>
   </tr>
@@ -50,7 +54,7 @@ alisha@nightcity:~$ ./status.sh
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
@@ -73,7 +77,7 @@ alisha@nightcity:~$ ./status.sh
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
@@ -85,7 +89,7 @@ alisha@nightcity:~$ ./status.sh
 - **Courses:** manual QA · Selenium with Python · test automation in Python
 - **Diploma project:** [diploma_project_spotify](https://github.com/AlishaMeier/diploma_project_spotify) 🎧
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
@@ -108,7 +112,7 @@ alisha@nightcity:~$ ./status.sh
 
 </div>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
@@ -118,6 +122,8 @@ alisha@nightcity:~$ ./status.sh
 <img src="https://streak-stats.demolab.com?user=AlishaMeier&hide_border=true&background=0d0221&ring=ff2e97&fire=ff2e97&currStreakLabel=e0aaff&currStreakNum=ffffff&sideLabels=c77dff&sideNums=ffffff&dates=9d4edd" height="170" alt="GitHub streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishaMeier&bg_color=0d0221&color=ff2e97&line=c77dff&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" width="95%" alt="activity graph"/>
+
+<img src="https://raw.githubusercontent.com/AlishaMeier/AlishaMeier/output/snake.svg" width="95%" alt="snake eating contributions"/>
 
 <br/><br/>
 
