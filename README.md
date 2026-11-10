@@ -20,7 +20,7 @@
 ### 🐾 About Me 🐾
 <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="230"/>
 
-Hey there! I’m **Alisha**, a **QA Engineer** with 4,5 years in manual testing, now diving into **fullstack QA & automation**.  
+Hey there! I’m **Alisha**, a **Fullstack QA Engineer**.  
 
 - 🧪 Testing APIs, web, backend   
 - 🔍 Obsessed with quality and details  
