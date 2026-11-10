@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Fullstack%20QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
 
 <a href="https://github.com/AlishaMeier">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
@@ -17,7 +17,7 @@
 
 ```bash
 alisha@nightcity:~$ whoami
-> Alisha. QA engineer. I test APIs, web and backend systems.
+> Alisha. Fullstack QA engineer. I test APIs, web and backend systems.
 
 alisha@nightcity:~$ cat about.txt
 > I care about quality and I notice details others skip.
@@ -37,7 +37,7 @@ alisha@nightcity:~$ ./status.sh
 
 <table>
   <tr>
-    <td align="center" width="200"><b>Class</b><br/>QA Engineer</td>
+    <td align="center" width="200"><b>Class</b><br/>Fullstack QA Engineer</td>
     <td align="center" width="200"><b>Specialty</b><br/>APIs · Web · Backend</td>
     <td align="center" width="200"><b>Side quest</b><br/>Pentesting 🗡️</td>
   </tr>
