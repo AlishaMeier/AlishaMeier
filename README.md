@@ -118,10 +118,7 @@ alisha@nightcity:~$ ./status.sh
 
 ## 📊 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlishaMeier&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2e97&text_color=e0aaff&icon_color=c77dff&ring_color=ff2e97" height="170" alt="GitHub stats"/>
-<img src="https://streak-stats.demolab.com?user=AlishaMeier&hide_border=true&background=0d0221&ring=ff2e97&fire=ff2e97&currStreakLabel=e0aaff&currStreakNum=ffffff&sideLabels=c77dff&sideNums=ffffff&dates=9d4edd" height="170" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishaMeier&bg_color=0d0221&color=ff2e97&line=c77dff&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" width="95%" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com?user=AlishaMeier&hide_border=true&background=0d0221&ring=ff2e97&fire=ff2e97&currStreakLabel=e0aaff&currStreakNum=ffffff&sideLabels=c77dff&sideNums=ffffff&dates=9d4edd" width="95%" alt="GitHub streak"/>
 
 <img src="https://raw.githubusercontent.com/AlishaMeier/AlishaMeier/output/snake.svg" width="95%" alt="snake eating contributions"/>
 
