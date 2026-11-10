@@ -1,85 +1,133 @@
-<h1 align="center">
-  💜 Hey, I'm <b>Alisha</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13Z5kstwARnPna/giphy.gif" width="250"/>
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/alisha-meier-qa">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AlishaMeier&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
 
-</div>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
 
----
+<a href="https://github.com/AlishaMeier">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
+</a>
 
-### 🐾 About Me 🐾
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="230"/>
+<br/>
 
-Hey there! I’m **Alisha**, a **Fullstack QA Engineer**.  
-
-- 🧪 Testing APIs, web, backend   
-- 🔍 Obsessed with quality and details  
-- 🧠 Fast learner, empathetic teammate  
-- 💜 Fueled by coffee and lo-fi 
-
----
-
-### 🐾 Tech & Tools 🐾
-
-<div align="left">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" width="40"/> 
+<a href="https://www.linkedin.com/in/alisha-meier-qa"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff2e97" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=AlishaMeier&label=VISITORS&color=7b2cbf&style=for-the-badge" alt="profile views"/>
 
 </div>
 
----
+<br/>
 
-### 🐾 Education 🐾
+```bash
+alisha@nightcity:~$ whoami
+> Alisha. QA engineer. I test APIs, web and backend systems.
 
-- 🎓 Bachelor’s in **Information Systems & Media Technologies**, SSUTI (Novosibirsk)  
-- 🧪 **Manual QA from 0** — Nikolay Krotov  
-- 🐍 **Test Automation with Selenium & Python** — Stepik  
-- ⚙️ **Test Automation on Python** — QA•GURU - [Diploma project](https://github.com/AlishaMeier/diploma_project_spotify)
+alisha@nightcity:~$ cat about.txt
+> I care about quality and I notice details others skip.
+> I learn fast, I'm a kind teammate, and I'll happily ask "wait, what happens if...?"
+> Currently looking at pentesting as the next level of "what happens if...?"
 
+alisha@nightcity:~$ ./status.sh
+> 🐈‍⬛ cats: supervising          🎧 music: rock / K-pop
+> 🌙 mood: gothic                  💜 colors: black, pink, violet
+```
 
----
-
-### 🐾 When I’m Not Testing 🐾
-
-- 🎬 K-Dramas & Anime   
-- 🏍 Pitbikes & 🚴 Cycling  
-- 🎵 Music: from rock to k-pop  
-
----
-
-### 🐾 GitHub Stats 🐾
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlishaMeier&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaMeier&theme=tokyonight" height="150"/>
-</p>
-
----
+<br/>
 
 <div align="center">
-  
-  <i>“Quality means doing it right even when no one is looking.” – Henry Ford</i> 
-  <br>
-  💜💫✨🐾💻☕
+
+## 🕷️ Character Sheet
+
+<table>
+  <tr>
+    <td align="center" width="200"><b>Class</b><br/>QA Engineer</td>
+    <td align="center" width="200"><b>Specialty</b><br/>APIs · Web · Backend</td>
+    <td align="center" width="200"><b>Side quest</b><br/>Pentesting 🗡️</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Superpower</b><br/>Finding the bug<br/>nobody planned for</td>
+    <td align="center"><b>Weakness</b><br/>Cats on the keyboard</td>
+    <td align="center"><b>Party role</b><br/>Fast learner,<br/>good teammate</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ⚔️ Arsenal
+
+<img src="https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=c77dff" alt="Python"/>
+<img src="https://img.shields.io/badge/pytest-1a0b2e?style=for-the-badge&logo=pytest&logoColor=ff2e97" alt="pytest"/>
+<img src="https://img.shields.io/badge/Playwright-1a0b2e?style=for-the-badge&logo=playwright&logoColor=c77dff" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-1a0b2e?style=for-the-badge&logo=selenium&logoColor=ff2e97" alt="Selenium"/>
+<br/>
+<img src="https://img.shields.io/badge/Postman-1a0b2e?style=for-the-badge&logo=postman&logoColor=c77dff" alt="Postman"/>
+<img src="https://img.shields.io/badge/Swagger-1a0b2e?style=for-the-badge&logo=swagger&logoColor=ff2e97" alt="Swagger"/>
+<img src="https://img.shields.io/badge/Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=c77dff" alt="Docker"/>
+<img src="https://img.shields.io/badge/Jenkins-1a0b2e?style=for-the-badge&logo=jenkins&logoColor=ff2e97" alt="Jenkins"/>
+<br/>
+<img src="https://img.shields.io/badge/GitLab-1a0b2e?style=for-the-badge&logo=gitlab&logoColor=c77dff" alt="GitLab"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a0b2e?style=for-the-badge&logo=postgresql&logoColor=ff2e97" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Jira-1a0b2e?style=for-the-badge&logo=jira&logoColor=c77dff" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-1a0b2e?style=for-the-badge&logo=confluence&logoColor=ff2e97" alt="Confluence"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🎓 Training
+
+</div>
+
+- **Bachelor's**, Information Systems & Media Technologies, SSUTI (Novosibirsk)
+- **Courses:** manual QA · Selenium with Python · test automation in Python
+- **Diploma project:** [diploma_project_spotify](https://github.com/AlishaMeier/diploma_project_spotify) 🎧
+
+<br/>
+
+<div align="center">
+
+## 🌑 After Hours
+
+<table>
+  <tr>
+    <td align="center" width="170">🐈‍⬛<br/><b>Cats</b><br/><sub>the real bosses</sub></td>
+    <td align="center" width="170">🎌<br/><b>Anime</b><br/><sub>and K-dramas</sub></td>
+    <td align="center" width="170">🌃<br/><b>Cyberpunk</b><br/><sub>neon, rain, chrome</sub></td>
+    <td align="center" width="170">🦇<br/><b>Gothic</b><br/><sub>dark and pretty</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🔪<br/><b>Suspense</b><br/><sub>psychological thrillers</sub></td>
+    <td align="center">🎮<br/><b>PC games</b><br/><sub>and finding their bugs</sub></td>
+    <td align="center">🎸<br/><b>Music</b><br/><sub>rock to K-pop</sub></td>
+    <td align="center">🚲<br/><b>Wheels</b><br/><sub>cycling and pit bikes</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlishaMeier&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff2e97&text_color=e0aaff&icon_color=c77dff&ring_color=ff2e97" height="170" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=AlishaMeier&hide_border=true&background=0d0221&ring=ff2e97&fire=ff2e97&currStreakLabel=e0aaff&currStreakNum=ffffff&sideLabels=c77dff&sideNums=ffffff&dates=9d4edd" height="170" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishaMeier&bg_color=0d0221&color=ff2e97&line=c77dff&point=ffffff&area=true&area_color=7b2cbf&hide_border=true" width="95%" alt="activity graph"/>
+
+<br/><br/>
+
+```text
+   /\_/\
+  ( o.o )   "Quality means doing it right
+   > ^ <     even when no one is looking."
+                                — Henry Ford
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff2e97,55:7b2cbf,100:0d0221&section=footer&animation=twinkling" width="100%" alt=""/>
+
 </div>
