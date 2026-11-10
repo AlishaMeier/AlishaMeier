@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05060d,60:0c1a33,100:0aa5c0&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
 
 <a href="https://github.com/AlishaMeier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/alisha-meier-qa"><img src="https://img.shields.io/badge/LinkedIn-11131a?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=AlishaMeier&label=VISITORS&color=0aa5c0&style=for-the-badge" alt="profile views"/>
+<a href="https://www.linkedin.com/in/alisha-meier-qa"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff2e97" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=AlishaMeier&label=VISITORS&color=7b2cbf&style=for-the-badge" alt="profile views"/>
 
 </div>
 
