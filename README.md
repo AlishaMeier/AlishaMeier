@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d0221,45:7b2cbf,100:ff2e97&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05060d,60:0c1a33,100:0aa5c0&text=Alisha%20Meier&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Bug%20Hunter%20%C2%B7%20Cat%20Person&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Alisha Meier"/>
 
 <a href="https://github.com/AlishaMeier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF2E97&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=Breaking+things+so+users+don't+have+to;Hunting+bugs+in+APIs%2C+web+and+backend;Cyberpunk+%C2%B7+Gothic+%C2%B7+Anime+%C2%B7+Cats;Curious+about+pentesting+%F0%9F%96%A4" alt="typing intro"/>
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/alisha-meier-qa"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=ff2e97" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=AlishaMeier&label=VISITORS&color=7b2cbf&style=for-the-badge" alt="profile views"/>
+<a href="https://www.linkedin.com/in/alisha-meier-qa"><img src="https://img.shields.io/badge/LinkedIn-11131a?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=AlishaMeier&label=VISITORS&color=0aa5c0&style=for-the-badge" alt="profile views"/>
 
 </div>
 
@@ -60,20 +60,20 @@ alisha@nightcity:~$ ./status.sh
 
 ## ⚔️ Arsenal
 
-<img src="https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=c77dff" alt="Python"/>
-<img src="https://img.shields.io/badge/pytest-1a0b2e?style=for-the-badge&logo=pytest&logoColor=ff2e97" alt="pytest"/>
-<img src="https://img.shields.io/badge/Playwright-1a0b2e?style=for-the-badge&logo=playwright&logoColor=c77dff" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Selenium-1a0b2e?style=for-the-badge&logo=selenium&logoColor=ff2e97" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Python-11131a?style=for-the-badge&logo=python&logoColor=00e5ff" alt="Python"/>
+<img src="https://img.shields.io/badge/pytest-11131a?style=for-the-badge&logo=pytest&logoColor=ff2e97" alt="pytest"/>
+<img src="https://img.shields.io/badge/Playwright-11131a?style=for-the-badge&logo=playwright&logoColor=00e5ff" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Selenium-11131a?style=for-the-badge&logo=selenium&logoColor=ff2e97" alt="Selenium"/>
 <br/>
-<img src="https://img.shields.io/badge/Postman-1a0b2e?style=for-the-badge&logo=postman&logoColor=c77dff" alt="Postman"/>
-<img src="https://img.shields.io/badge/Swagger-1a0b2e?style=for-the-badge&logo=swagger&logoColor=ff2e97" alt="Swagger"/>
-<img src="https://img.shields.io/badge/Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=c77dff" alt="Docker"/>
-<img src="https://img.shields.io/badge/Jenkins-1a0b2e?style=for-the-badge&logo=jenkins&logoColor=ff2e97" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Postman-11131a?style=for-the-badge&logo=postman&logoColor=00e5ff" alt="Postman"/>
+<img src="https://img.shields.io/badge/Swagger-11131a?style=for-the-badge&logo=swagger&logoColor=ff2e97" alt="Swagger"/>
+<img src="https://img.shields.io/badge/Docker-11131a?style=for-the-badge&logo=docker&logoColor=00e5ff" alt="Docker"/>
+<img src="https://img.shields.io/badge/Jenkins-11131a?style=for-the-badge&logo=jenkins&logoColor=ff2e97" alt="Jenkins"/>
 <br/>
-<img src="https://img.shields.io/badge/GitLab-1a0b2e?style=for-the-badge&logo=gitlab&logoColor=c77dff" alt="GitLab"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1a0b2e?style=for-the-badge&logo=postgresql&logoColor=ff2e97" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Jira-1a0b2e?style=for-the-badge&logo=jira&logoColor=c77dff" alt="Jira"/>
-<img src="https://img.shields.io/badge/Confluence-1a0b2e?style=for-the-badge&logo=confluence&logoColor=ff2e97" alt="Confluence"/>
+<img src="https://img.shields.io/badge/GitLab-11131a?style=for-the-badge&logo=gitlab&logoColor=00e5ff" alt="GitLab"/>
+<img src="https://img.shields.io/badge/PostgreSQL-11131a?style=for-the-badge&logo=postgresql&logoColor=ff2e97" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Jira-11131a?style=for-the-badge&logo=jira&logoColor=00e5ff" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-11131a?style=for-the-badge&logo=confluence&logoColor=ff2e97" alt="Confluence"/>
 
 </div>
 
@@ -116,21 +116,11 @@ alisha@nightcity:~$ ./status.sh
 
 <div align="center">
 
-## 📊 Activity
-
-<img src="https://streak-stats.demolab.com?user=AlishaMeier&hide_border=true&background=0d0221&ring=ff2e97&fire=ff2e97&currStreakLabel=e0aaff&currStreakNum=ffffff&sideLabels=c77dff&sideNums=ffffff&dates=9d4edd" width="95%" alt="GitHub streak"/>
-
 <img src="https://raw.githubusercontent.com/AlishaMeier/AlishaMeier/output/snake.svg" width="95%" alt="snake eating contributions"/>
 
-<br/><br/>
+<br/>
 
-```text
-   /\_/\
-  ( o.o )   "Quality means doing it right
-   > ^ <     even when no one is looking."
-                                — Henry Ford
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ff2e97,55:7b2cbf,100:0d0221&section=footer&animation=twinkling" width="100%" alt=""/>
+<i>"Quality means doing it right even when no one is looking."</i><br/>
+<sub>— Henry Ford</sub>
 
 </div>
